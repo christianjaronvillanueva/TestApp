@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "bKiAAJL8zEq8osj9XcTGtUQikumPCm0Qq9LXHOFcGLRB4zvvVBHHPEPGlX2Z3XYmXpTgnrrbuAHh4kDNtMX8AA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ALN sulotions\\source\\repos\\TestApplication\\TestApplication.API\\TestApplication.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALN sulotions\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ALN sulotions\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ALN sulotions\\.nuget\\packages\\morelinq\\3.4.2\\morelinq.3.4.2.nupkg.sha512",
+    "C:\\Users\\ALN sulotions\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ALN sulotions\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ALN sulotions\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ALN sulotions\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ALN sulotions\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
